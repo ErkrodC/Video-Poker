@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c79a961739b1e984ba228d24b0bdd142, type: 3}
+  m_Name: CardDatabase
+  m_EditorClassIdentifier: 
+  cardInfos:
+  - Card:
+      Suit: 0
+      Value: 14
+    Sprite: {fileID: 21300000, guid: 8c638a4692e0af74785b85b62f8d822e, type: 3}
+  - Card:
+      Suit: 0
+      Value: 2
+    Sprite: {fileID: 21300000, guid: 36d2677deb9b15a44942ef446cefd05e, type: 3}
+  - Card:
+      Suit: 0
+      Value: 3
+    Sprite: {fileID: 21300000, guid: bb3025d9c89e17043a399f3acb692ed1, type: 3}
+  - Card:
+      Suit: 0
+      Value: 4
+    Sprite: {fileID: 21300000, guid: 1c46e5329b6b09145ab79d19415f658c, type: 3}
+  - Card:
+      Suit: 0
+      Value: 5
+    Sprite: {fileID: 21300000, guid: 9e42b5a4ae4c20245802892064d6b120, type: 3}
+  - Card:
+      Suit: 0
+      Value: 6
+    Sprite: {fileID: 21300000, guid: 3b5f26b48d0c85846b0fb77523c2303d, type: 3}
+  - Card:
+      Suit: 0
+      Value: 7
+    Sprite: {fileID: 21300000, guid: e4c968ba09cd77e4196f003279de4940, type: 3}
+  - Card:
+      Suit: 0
+      Value: 8
+    Sprite: {fileID: 21300000, guid: a79667243b53a0843af1adac16befd14, type: 3}
+  - Card:
+      Suit: 0
+      Value: 9
+    Sprite: {fileID: 21300000, guid: 2aab385d746c2b64fbfa24f827c11c06, type: 3}
+  - Card:
+      Suit: 0
+      Value: 10
+    Sprite: {fileID: 21300000, guid: 23228b30184e43a40aed4701cf0aee2a, type: 3}
+  - Card:
+      Suit: 0
+      Value: 11
+    Sprite: {fileID: 21300000, guid: 405b4ed1d84d924419824eefa2a62356, type: 3}
+  - Card:
+      Suit: 0
+      Value: 12
+    Sprite: {fileID: 21300000, guid: f199e34708b0d304591442fc93151c2d, type: 3}
+  - Card:
+      Suit: 0
+      Value: 13
+    Sprite: {fileID: 21300000, guid: 4f272bf70537ba54da358aaf689d0310, type: 3}
+  - Card:
+      Suit: 1
+      Value: 14
+    Sprite: {fileID: 21300000, guid: dd974cdb75849a54bbb8f6b53485e29c, type: 3}
+  - Card:
+      Suit: 1
+      Value: 2
+    Sprite: {fileID: 21300000, guid: 52695bf0ae38ce345bbdb164c6f12a16, type: 3}
+  - Card:
+      Suit: 1
+      Value: 3
+    Sprite: {fileID: 21300000, guid: e5b6d5b8d181971419b4d5f198384a2a, type: 3}
+  - Card:
+      Suit: 1
+      Value: 4
+    Sprite: {fileID: 21300000, guid: 9e27a657b8460ae438dc3d162c0001ae, type: 3}
+  - Card:
+      Suit: 1
+      Value: 5
+    Sprite: {fileID: 21300000, guid: 8cb859a250648f748b149826505f7177, type: 3}
+  - Card:
+      Suit: 1
+      Value: 6
+    Sprite: {fileID: 21300000, guid: 46940c42a1664344a845cd6de21d85be, type: 3}
+  - Card:
+      Suit: 1
+      Value: 7
+    Sprite: {fileID: 21300000, guid: 6109f0e60da24c348aa7732f19759d89, type: 3}
+  - Card:
+      Suit: 1
+      Value: 8
+    Sprite: {fileID: 21300000, guid: b2197a3493d4b1243bc1e15c7d68df31, type: 3}
+  - Card:
+      Suit: 1
+      Value: 9
+    Sprite: {fileID: 21300000, guid: 0ab451f722d4916439773169bb97ce1e, type: 3}
+  - Card:
+      Suit: 1
+      Value: 10
+    Sprite: {fileID: 21300000, guid: 8a6b7e1a898ee764ba99b98c44a6bcac, type: 3}
+  - Card:
+      Suit: 1
+      Value: 11
+    Sprite: {fileID: 21300000, guid: 664c8acb42ad25c4eb79775ecdb5d1cb, type: 3}
+  - Card:
+      Suit: 1
+      Value: 12
+    Sprite: {fileID: 21300000, guid: 2ff46504aa23f1f49834d3b3623b00f8, type: 3}
+  - Card:
+      Suit: 1
+      Value: 13
+    Sprite: {fileID: 21300000, guid: 7dccdff1f7b236949ae93abb6487ab6d, type: 3}
+  - Card:
+      Suit: 2
+      Value: 14
+    Sprite: {fileID: 21300000, guid: dd73a4d6b7e273149af8fbd890278a16, type: 3}
+  - Card:
+      Suit: 2
+      Value: 2
+    Sprite: {fileID: 21300000, guid: 9ad939432b2e63846928525ecb7dcb3c, type: 3}
+  - Card:
+      Suit: 2
+      Value: 3
+    Sprite: {fileID: 21300000, guid: 1326542666efaea449b84cb8766c636a, type: 3}
+  - Card:
+      Suit: 2
+      Value: 4
+    Sprite: {fileID: 21300000, guid: d40cfa4b2ffa60447a012cb3960bb2df, type: 3}
+  - Card:
+      Suit: 2
+      Value: 5
+    Sprite: {fileID: 21300000, guid: 08ca38b8539d39b4d8f8a5c201a754dc, type: 3}
+  - Card:
+      Suit: 2
+      Value: 6
+    Sprite: {fileID: 21300000, guid: e4d283b53369fdd45a5fca26ca4d1adb, type: 3}
+  - Card:
+      Suit: 2
+      Value: 7
+    Sprite: {fileID: 21300000, guid: fd29decca8214584e886f372f1cd7d62, type: 3}
+  - Card:
+      Suit: 2
+      Value: 8
+    Sprite: {fileID: 21300000, guid: 40f7472e5ba5a40449e8f7ebf1a32aa6, type: 3}
+  - Card:
+      Suit: 2
+      Value: 9
+    Sprite: {fileID: 21300000, guid: 20cec02e93d28724d96718e965c436c6, type: 3}
+  - Card:
+      Suit: 2
+      Value: 10
+    Sprite: {fileID: 21300000, guid: 9fcdb7ac15c73824f9ae24f047abe687, type: 3}
+  - Card:
+      Suit: 2
+      Value: 11
+    Sprite: {fileID: 21300000, guid: 0d832541378bfad46b0e956a231b9420, type: 3}
+  - Card:
+      Suit: 2
+      Value: 12
+    Sprite: {fileID: 21300000, guid: 5c39e948b4ac5634b85dcc4ead0dae23, type: 3}
+  - Card:
+      Suit: 2
+      Value: 13
+    Sprite: {fileID: 21300000, guid: f139a8c714e426a40a97f54b68e1ac94, type: 3}
+  - Card:
+      Suit: 3
+      Value: 14
+    Sprite: {fileID: 21300000, guid: 88822b9521bed2f41b2f20c0fbc3c6cb, type: 3}
+  - Card:
+      Suit: 3
+      Value: 2
+    Sprite: {fileID: 21300000, guid: 7fd72af73cc57d345868118fd51eb827, type: 3}
+  - Card:
+      Suit: 3
+      Value: 3
+    Sprite: {fileID: 21300000, guid: 2c743c921ded8014a81e4a1e2a3e6370, type: 3}
+  - Card:
+      Suit: 3
+      Value: 4
+    Sprite: {fileID: 21300000, guid: 8670fb2b8467f5b4793c6ff794511d8b, type: 3}
+  - Card:
+      Suit: 3
+      Value: 5
+    Sprite: {fileID: 21300000, guid: 7da5bd46f7edacc4d93604bd846a5629, type: 3}
+  - Card:
+      Suit: 3
+      Value: 6
+    Sprite: {fileID: 21300000, guid: eb7bfd5384754d0458150f6de9658744, type: 3}
+  - Card:
+      Suit: 3
+      Value: 7
+    Sprite: {fileID: 21300000, guid: 9cdd61dfd0be3984f9f0ccbbdb931b8c, type: 3}
+  - Card:
+      Suit: 3
+      Value: 8
+    Sprite: {fileID: 21300000, guid: 6442cb1319fca3a4f95e1fdc85a13376, type: 3}
+  - Card:
+      Suit: 3
+      Value: 9
+    Sprite: {fileID: 21300000, guid: ffb167d2b62099e4cbb5d79fb5721099, type: 3}
+  - Card:
+      Suit: 3
+      Value: 10
+    Sprite: {fileID: 21300000, guid: 540253370b6fb2c4b8ec37277951d969, type: 3}
+  - Card:
+      Suit: 3
+      Value: 11
+    Sprite: {fileID: 21300000, guid: b48ae89b3bdf70741b7f8a4eb081c4e6, type: 3}
+  - Card:
+      Suit: 3
+      Value: 12
+    Sprite: {fileID: 21300000, guid: 18c45c6c71e3dd7428f9f4558ee9990e, type: 3}
+  - Card:
+      Suit: 3
+      Value: 13
+    Sprite: {fileID: 21300000, guid: 1fe17280358d0c747af0cc6fd7629fa8, type: 3}
