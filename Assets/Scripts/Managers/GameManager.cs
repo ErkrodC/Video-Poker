@@ -52,7 +52,7 @@ public class GameManager : MonoBehaviourSingleton<GameManager> {
 			PlayerWon?.Invoke(winningHandName, reward, currentPlayer);
 		}
 
-		currentBet = kDefaultBet;
+		currentBet = Mathf.Min(kDefaultBet, currentPlayer.Credits);
 		BetChanged?.Invoke(currentBet);
 	}
 
